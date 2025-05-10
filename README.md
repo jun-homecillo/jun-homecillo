@@ -3,7 +3,7 @@
 
 <p align="center">I’m passionate about helping businesses build a strong online presence through fast, secure, and responsive websites tailored to their unique needs. With years of hands-on experience in custom WordPress development, plugin and theme customization, I deliver results-driven solutions that work. My skills go beyond web design — I also specialize in on-page and off-page SEO, keyword research, technical audits, and content optimization to improve visibility and drive organic traffic.</p>
 
-📫 How to reach me **jun.homecillo1@gmail.com**
+📫 How to reach me **junhomecillo1990@gmail.com**
 <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/jun-homecillo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jun Homecillo Linkedin" height="30" width="40" /></a>
 </p>
