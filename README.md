@@ -1,4 +1,4 @@
-<p align="center">Hi 👋, I'm Jun Conceso Homecillo</p>
+<p align="center">Hi 👋, I'm Jun Homecillo</p>
 <h1 align="center">WordPress Developer & SEO Expert from Butuan, Philippines</h1>
 
 <p align="center">I’m passionate about helping businesses build a strong online presence through fast, secure, and responsive websites tailored to their unique needs. With years of hands-on experience in custom WordPress development, plugin and theme customization, I deliver results-driven solutions that work. My skills go beyond web design — I also specialize in on-page and off-page SEO, keyword research, technical audits, and content optimization to improve visibility and drive organic traffic.</p>
